@@ -1,5 +1,12 @@
 # todos-server-example
 
+## 0.0.1-rc.10
+
+### Patch Changes
+
+- @solidjs/web@2.0.0-rc.22
+- solid-js@2.0.0-rc.22
+
 ## 0.0.1-rc.9
 
 ### Patch Changes

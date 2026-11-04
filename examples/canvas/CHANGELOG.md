@@ -1,5 +1,12 @@
 # canvas-example
 
+## 0.0.1-rc.3
+
+### Patch Changes
+
+- @solidjs/web@2.0.0-rc.22
+- solid-js@2.0.0-rc.22
+
 ## 0.0.1-rc.2
 
 ### Patch Changes

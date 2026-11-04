@@ -1,5 +1,11 @@
 # @solidjs/signals
 
+## 2.0.0-rc.22
+
+### Patch Changes
+
+- 5208944: Prevent an untracked staged-store read beside `latest()` from throwing and halting reactivity when the store has no reactive node. A pass whose verdict posture is only inherited is now served the hold's own write from a node-less store key, as it is from a signal or a key with a node, so the landing frame no longer tears.
+
 ## 2.0.0-rc.21
 
 ### Patch Changes

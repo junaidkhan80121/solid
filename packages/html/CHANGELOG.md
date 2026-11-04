@@ -1,5 +1,11 @@
 # @solidjs/html
 
+## 2.0.0-rc.22
+
+### Patch Changes
+
+- @solidjs/web@2.0.0-rc.22
+
 ## 2.0.0-rc.21
 
 ### Patch Changes

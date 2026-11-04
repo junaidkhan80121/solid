@@ -779,6 +779,7 @@
     "guard-error-carried-failure-channels",
     "guard-failures-iterative-walk",
     "guard-getter-and-map-key-channels",
+    "guard-nodeless-store-staging",
     "guess-memo-binding-holds-frame",
     "guess-under-new-question-rebases",
     "h-rematerialize-without-mutating-props",
